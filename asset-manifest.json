@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.6eef00dd.css",
-    "main.js": "/Portafolio/static/js/main.bde94f38.js",
-    "index.html": "/Portafolio/index.html",
-    "main.6eef00dd.css.map": "/Portafolio/static/css/main.6eef00dd.css.map",
-    "main.bde94f38.js.map": "/Portafolio/static/js/main.bde94f38.js.map"
+    "main.css": "/ArmandoCruzV/Portafolio.git/static/css/main.6eef00dd.css",
+    "main.js": "/ArmandoCruzV/Portafolio.git/static/js/main.bde94f38.js",
+    "index.html": "/ArmandoCruzV/Portafolio.git/index.html",
+    "main.6eef00dd.css.map": "/ArmandoCruzV/Portafolio.git/static/css/main.6eef00dd.css.map",
+    "main.bde94f38.js.map": "/ArmandoCruzV/Portafolio.git/static/js/main.bde94f38.js.map"
   },
   "entrypoints": [
     "static/css/main.6eef00dd.css",
